@@ -10,11 +10,11 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 model = pickle.load(
-    open('../models/svm_sentiment_model.pkl', 'rb')
+    open('Sentiment_analysis_flipkart/models/svm_sentiment_model.pkl', 'rb')
 )
 
 vectorizer = pickle.load(
-    open('../models/tfidf_vectorizer.pkl', 'rb')
+    open('Sentiment_analysis_flipkart/models/tfidf_vectorizer.pkl', 'rb')
 )
 
 lemmatizer = WordNetLemmatizer()
