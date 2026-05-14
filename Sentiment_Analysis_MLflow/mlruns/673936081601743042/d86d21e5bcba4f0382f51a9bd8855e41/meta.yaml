@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pooji/Downloads/DS410/DS%20with%20Adv%20GenAI%20internship/Nov/MLops/Sentiment_Analysis_MLflow/mlruns/673936081601743042/d86d21e5bcba4f0382f51a9bd8855e41/artifacts
+end_time: 1778742662469
+entry_point_name: ''
+experiment_id: '673936081601743042'
+lifecycle_stage: active
+run_id: d86d21e5bcba4f0382f51a9bd8855e41
+run_name: SVM_C_10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778742649480
+status: 3
+tags: []
+user_id: pooji

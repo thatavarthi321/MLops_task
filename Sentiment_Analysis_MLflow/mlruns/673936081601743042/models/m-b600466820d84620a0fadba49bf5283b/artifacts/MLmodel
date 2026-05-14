@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/pooji/Downloads/DS410/DS%20with%20Adv%20GenAI%20internship/Nov/MLops/Sentiment_Analysis_MLflow/mlruns/673936081601743042/models/m-b600466820d84620a0fadba49bf5283b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-b600466820d84620a0fadba49bf5283b
+model_size_bytes: 4034
+model_uuid: m-b600466820d84620a0fadba49bf5283b
+prompts: null
+run_id: 0594817949234bd6bd4cb793b65d8e5a
+utc_time_created: '2026-05-14 15:06:50.629380'

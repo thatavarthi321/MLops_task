@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/pooji/Downloads/DS410/DS%20with%20Adv%20GenAI%20internship/Nov/MLops/Sentiment_Analysis_MLflow/mlruns/673936081601743042/models/m-648e64ba389943688ead994fd2d5516e/artifacts
+creation_timestamp: 1778742649754
+experiment_id: '673936081601743042'
+last_updated_timestamp: 1778742662430
+model_id: m-648e64ba389943688ead994fd2d5516e
+model_type: null
+name: svm_model
+source_run_id: d86d21e5bcba4f0382f51a9bd8855e41
+status: 2
+status_message: null
